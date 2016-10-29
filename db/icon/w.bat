@@ -1,0 +1,1 @@
+windres -o oracle_res.syso oracle.rc
